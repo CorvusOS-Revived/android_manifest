@@ -153,7 +153,7 @@
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="corvus-rev" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="corvus" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="corvus-rev" />
-  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="corvus" />
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="corvus-rev" />
   <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="corvus" />
   <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="corvus" />
   <project path="packages/apps/FaceUnlockService" name="PixelExperience/packages_apps_FaceUnlockService" remote="github" revision="eleven" />
