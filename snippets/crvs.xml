@@ -159,7 +159,6 @@
   <project path="packages/apps/FaceUnlockService" name="PixelExperience/packages_apps_FaceUnlockService" remote="github" revision="eleven" />
   <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="corvus" />
   <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="corvus" />
-  <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="corvus" />
   <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="corvus" />
   <project path="packages/apps/RavenLair" name="android_packages_apps_RavenLair" remote="corvus" />
   <project path="packages/apps/Corvus-Themes" name="android_packages_apps_Corvus-Themes" remote="corvus" />
