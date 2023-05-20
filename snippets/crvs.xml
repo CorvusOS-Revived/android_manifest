@@ -53,7 +53,7 @@
   <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="corvus" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="corvus" />
   <project path="external/libpng" name="android_external_libpng" remote="corvus" />
-  <project path="external/zlib" name="android_external_zlib" remote="corvus" />
+  <project path="external/zlib" name="android_external_zlib" remote="corvus-rev" />
   <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="corvus" />
   <project path="external/faceunlock" name="external_faceunlock" remote="pixel-gitlab-self-hosted" clone-depth="1" />
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="corvus" />
