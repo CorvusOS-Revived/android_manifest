@@ -43,7 +43,7 @@
     <linkfile src="tools" dest="build/tools"/>
   </project>
 
-  <project path="build/soong" name="android_build_soong" remote="corvus" >
+  <project path="build/soong" name="android_build_soong" remote="corvus-rev" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
